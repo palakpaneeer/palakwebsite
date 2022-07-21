@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 21 Jul 2022 06:19:17 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 21 Jul 2022 06:24:33 +0530</pubDate>
+      
+      <guid>/about/</guid>
+      
+        <description>palak ek gandi ladki hai palak kisi ki bandi ladki hai palak ek chat par soti hai palak poti karne ke liye roti hai palak ek gol roti hai palak ek choti hai</description>
+      
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>/post/second/</link>
+      <pubDate>Thu, 21 Jul 2022 06:19:17 +0530</pubDate>
+      
+      <guid>/post/second/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>/post/first/</link>
+      <pubDate>Thu, 21 Jul 2022 06:18:48 +0530</pubDate>
+      
+      <guid>/post/first/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

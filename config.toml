@@ -1,0 +1,72 @@
+theme = "anatole"
+[params]
+baseURL = "https://www.palak.tk/"
+title = "Palak"
+author = "Palak Srivastava"
+description = "Designer x Artist"
+profilePicture = "images/profile.jpg"
+keywords = "en"
+favicon = "favicons/favicon.ico"
+mainSections = ["post"]
+images = ["images/site-feature-image.png"]
+
+[[params.socialIcons]]
+icon = "fab fa-youtube"
+title = "Linkedin"
+url = "https://www.youtube.com/user/artisticpalak/"
+
+[[params.socialIcons]]
+icon = "fab fa-pinterest"
+title = "Linkedin"
+url = "https://pin.it/36hkP5S/"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "Instagram"
+url = "https://www.instagram.com/_artisticpalak_/"
+
+[[params.socialIcons]]
+icon = "fab fa-telegram"
+title = "Telegram"
+url = "http://t.me/palak_paneer"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/ArtisticPalak"
+
+[[params.socialIcons]]
+icon = "fab fa-reddit"
+title = "Linkedin"
+url = "https://www.reddit.com/user/ArtisticPalak/"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/palak-sri-08379a204/"
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:artisticpalak4@gmail.com"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+  
+  
